@@ -1,5 +1,5 @@
 body {
-    /*This is the German flag, meant to symbolise the music translated*/
+    /*The Abyss*/
     background-color: black; 
    background-repeat: repeat-x;
    color:#39ff14;
@@ -67,14 +67,8 @@ h2 {
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
+
+
 
 /* The dots/bullets/indicators */
 .dot {
